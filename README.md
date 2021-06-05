@@ -1,2 +1,1 @@
-# Huiaong.github.io
-huiao's blog
+[huiao's blog](https://huiaong.github.io)
